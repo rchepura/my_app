@@ -13,5 +13,3 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
-
-alert(1212121);
